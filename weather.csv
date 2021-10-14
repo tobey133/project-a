@@ -1,0 +1,10 @@
+,period,short_description,temperature
+0,Tonight,ShowersLikely,Low: 67 °F
+1,Thursday,ChanceShowers,High: 67 °F
+2,ThursdayNight,ShowersLikely,Low: 57 °F
+3,Friday,ShowersLikely,High: 63 °F
+4,FridayNight,ShowersLikely thenChanceShowers,Low: 48 °F
+5,Saturday,Sunny thenSunny andBreezy,High: 60 °F
+6,SaturdayNight,Mostly Clear,Low: 48 °F
+7,Sunday,Sunny,High: 66 °F
+8,SundayNight,Mostly Clear,Low: 51 °F
